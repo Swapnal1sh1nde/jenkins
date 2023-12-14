@@ -1,4 +1,4 @@
-package in.javahome.myweb.controller;
+/*package in.javahome.myweb.controller;
 /*
  * 
  */
@@ -20,3 +20,4 @@ public class Calculator {
 		return i-j;
 	}
 }
+*/
